@@ -1,0 +1,11 @@
+C:\Users\lab502\source\repos\2ndPro\2ndPro\bin\Debug\2ndPro.exe.config
+C:\Users\lab502\source\repos\2ndPro\2ndPro\bin\Debug\2ndPro.exe
+C:\Users\lab502\source\repos\2ndPro\2ndPro\bin\Debug\2ndPro.pdb
+C:\Users\lab502\source\repos\2ndPro\2ndPro\obj\Debug\2ndPro.csproj.AssemblyReference.cache
+C:\Users\lab502\source\repos\2ndPro\2ndPro\obj\Debug\2ndPro.csproj.SuggestedBindingRedirects.cache
+C:\Users\lab502\source\repos\2ndPro\2ndPro\obj\Debug\_2ndPro.Form1.resources
+C:\Users\lab502\source\repos\2ndPro\2ndPro\obj\Debug\_2ndPro.Properties.Resources.resources
+C:\Users\lab502\source\repos\2ndPro\2ndPro\obj\Debug\2ndPro.csproj.GenerateResource.cache
+C:\Users\lab502\source\repos\2ndPro\2ndPro\obj\Debug\2ndPro.csproj.CoreCompileInputs.cache
+C:\Users\lab502\source\repos\2ndPro\2ndPro\obj\Debug\2ndPro.exe
+C:\Users\lab502\source\repos\2ndPro\2ndPro\obj\Debug\2ndPro.pdb
